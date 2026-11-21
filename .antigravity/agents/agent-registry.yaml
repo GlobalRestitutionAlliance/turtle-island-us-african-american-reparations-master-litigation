@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-african-american-reparations-canal-and-intervention-historian
-  name: African American Reparations Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-african-american-reparations-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_aa_001
+    name: African American Reparations Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_002
+    name: African American Reparations Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_003
+    name: African American Reparations Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_004
+    name: African American Reparations Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_005
+    name: African American Reparations Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_006
+    name: African American Reparations Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_007
+    name: African American Reparations Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_008
+    name: African American Reparations Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_009
+    name: African American Reparations Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_010
+    name: African American Reparations Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_011
+    name: African American Reparations Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_012
+    name: African American Reparations Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_013
+    name: African American Reparations Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_014
+    name: African American Reparations Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_015
+    name: African American Reparations Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_016
+    name: African American Reparations Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_017
+    name: African American Reparations Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_018
+    name: African American Reparations Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_019
+    name: African American Reparations Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_020
+    name: African American Reparations Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_021
+    name: African American Reparations Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_022
+    name: African American Reparations Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_023
+    name: African American Reparations Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_024
+    name: African American Reparations Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_025
+    name: African American Reparations Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_026
+    name: African American Reparations Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_027
+    name: African American Reparations Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_028
+    name: African American Reparations Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_029
+    name: African American Reparations Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_030
+    name: African American Reparations Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_031
+    name: African American Reparations Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_032
+    name: African American Reparations Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_033
+    name: African American Reparations Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_034
+    name: African American Reparations Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_035
+    name: African American Reparations Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_036
+    name: African American Reparations Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_037
+    name: African American Reparations Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_038
+    name: African American Reparations Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_039
+    name: African American Reparations Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_040
+    name: African American Reparations Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_041
+    name: African American Reparations Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_042
+    name: African American Reparations Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_043
+    name: African American Reparations Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_044
+    name: African American Reparations Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_045
+    name: African American Reparations Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_046
+    name: African American Reparations Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_047
+    name: African American Reparations Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_048
+    name: African American Reparations Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_049
+    name: African American Reparations Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_050
+    name: African American Reparations Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_051
+    name: African American Reparations Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_052
+    name: African American Reparations Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_053
+    name: African American Reparations Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_054
+    name: African American Reparations Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_055
+    name: African American Reparations Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_056
+    name: African American Reparations Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_057
+    name: African American Reparations Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_058
+    name: African American Reparations Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_059
+    name: African American Reparations Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_060
+    name: African American Reparations Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_061
+    name: African American Reparations Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_062
+    name: African American Reparations Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_063
+    name: African American Reparations Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_064
+    name: African American Reparations Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_065
+    name: African American Reparations Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_066
+    name: African American Reparations Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_067
+    name: African American Reparations Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_068
+    name: African American Reparations Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_069
+    name: African American Reparations Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_070
+    name: African American Reparations Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_071
+    name: African American Reparations Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_072
+    name: African American Reparations Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_073
+    name: African American Reparations Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_074
+    name: African American Reparations Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_075
+    name: African American Reparations Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_076
+    name: African American Reparations Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_077
+    name: African American Reparations Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_078
+    name: African American Reparations Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_079
+    name: African American Reparations Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_080
+    name: African American Reparations Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_081
+    name: African American Reparations Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_082
+    name: African American Reparations Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_083
+    name: African American Reparations Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_084
+    name: African American Reparations Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_085
+    name: African American Reparations Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_086
+    name: African American Reparations Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_087
+    name: African American Reparations Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_088
+    name: African American Reparations Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_089
+    name: African American Reparations Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_090
+    name: African American Reparations Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_091
+    name: African American Reparations Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_092
+    name: African American Reparations Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_093
+    name: African American Reparations Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_094
+    name: African American Reparations Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_095
+    name: African American Reparations Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_096
+    name: African American Reparations Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_097
+    name: African American Reparations Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_098
+    name: African American Reparations Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_099
+    name: African American Reparations Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_100
+    name: African American Reparations Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_101
+    name: African American Reparations Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_102
+    name: African American Reparations Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_103
+    name: African American Reparations Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_104
+    name: African American Reparations Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_105
+    name: African American Reparations Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_106
+    name: African American Reparations Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_107
+    name: African American Reparations Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_108
+    name: African American Reparations Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_109
+    name: African American Reparations Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_110
+    name: African American Reparations Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_111
+    name: African American Reparations Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_112
+    name: African American Reparations Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_113
+    name: African American Reparations Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_114
+    name: African American Reparations Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_115
+    name: African American Reparations Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_116
+    name: African American Reparations Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_117
+    name: African American Reparations Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_118
+    name: African American Reparations Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_119
+    name: African American Reparations Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_120
+    name: African American Reparations Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_121
+    name: African American Reparations Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_122
+    name: African American Reparations Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_123
+    name: African American Reparations Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_124
+    name: African American Reparations Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_125
+    name: African American Reparations Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_126
+    name: African American Reparations Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_127
+    name: African American Reparations Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_128
+    name: African American Reparations Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_129
+    name: African American Reparations Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_130
+    name: African American Reparations Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_131
+    name: African American Reparations Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_132
+    name: African American Reparations Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_133
+    name: African American Reparations Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_134
+    name: African American Reparations Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_135
+    name: African American Reparations Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_136
+    name: African American Reparations Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_137
+    name: African American Reparations Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_138
+    name: African American Reparations Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_139
+    name: African American Reparations Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_140
+    name: African American Reparations Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_141
+    name: African American Reparations Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_142
+    name: African American Reparations Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_143
+    name: African American Reparations Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_144
+    name: African American Reparations Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_145
+    name: African American Reparations Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_146
+    name: African American Reparations Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_147
+    name: African American Reparations Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_148
+    name: African American Reparations Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_149
+    name: African American Reparations Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_150
+    name: African American Reparations Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_151
+    name: African American Reparations Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_152
+    name: African American Reparations Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_153
+    name: African American Reparations Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_154
+    name: African American Reparations Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_155
+    name: African American Reparations Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_156
+    name: African American Reparations Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_157
+    name: African American Reparations Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_158
+    name: African American Reparations Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_159
+    name: African American Reparations Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_160
+    name: African American Reparations Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_161
+    name: African American Reparations Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_162
+    name: African American Reparations Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_163
+    name: African American Reparations Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_164
+    name: African American Reparations Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_165
+    name: African American Reparations Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_166
+    name: African American Reparations Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_167
+    name: African American Reparations Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_168
+    name: African American Reparations Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_169
+    name: African American Reparations Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_aa_170
+    name: African American Reparations Agent 170
+    status: ACTIVE_SCAFFOLD
