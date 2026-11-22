@@ -1,0 +1,12 @@
+{
+  "url": "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation",
+  "final_url": "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43641,
+  "sha256": "c481fb8f7f18f171f3a27cb5b394a08f94cbc7f8cbe1198dc194e17358f0dc84",
+  "captured_at": "2026-11-22T19:58:17.651766Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "pilot-1"
+}

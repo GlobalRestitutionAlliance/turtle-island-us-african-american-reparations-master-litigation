@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [US National Archives](https://www.archives.gov/)
 - [Library of Congress](https://www.loc.gov/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
@@ -22,3 +21,10 @@
 - [UNESCO Routes of Enslaved Peoples](https://www.unesco.org/en/routes-enslaved-peoples)
 - [UK National Archives - Slavery](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/)
 - [Library of Congress - Slavery Resources](https://guides.loc.gov/slavery)
+- [Library of Congress - African American History](https://www.loc.gov/classroom-materials/african-american-history/)
+- [National Archives - African American Records](https://www.archives.gov/research/african-americans)
+- [HathiTrust - public domain slavery narratives](https://babel.hathitrust.org/cgi/mb?a=listis;c=729189149)
+- [Smithsonian NMAAHC](https://nmaahc.si.edu/)
+- [Congress.gov - HR40](https://www.congress.gov/bill/117th-congress/house-bill/40)
+- [National Archives - Emancipation Proclamation](https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation)
+- [FOIA.gov - DOJ Civil Rights](https://www.foia.gov/agency-search.html?id=9d4f7e74-7c93-4d5a-8d2a-9f7b8d0e2a2b)

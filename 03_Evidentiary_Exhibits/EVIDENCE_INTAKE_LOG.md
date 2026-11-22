@@ -26,3 +26,18 @@
 | 2026-11-22 | UNESCO Routes of Enslaved Peoples | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | Remote end closed connection without response |
 | 2026-11-22 | UK_National_Archives_-_Slavery.html | https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/ | OpenCode/harvest | 8b68ac9c5d1d45a33c711ba336c6c5a674de6a7b231f1ed35915eca71aaa7f6e | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=66425 |
 | 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UNESCO Routes of Enslaved Peoples | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | Library of Congress - African American History | https://www.loc.gov/classroom-materials/african-american-history/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | National_Archives_-_African_American_Records.html | https://www.archives.gov/research/african-americans | OpenCode/harvest | 90ee2ae3c99e904b1dc4ba9cff5d00865839a9481a3c28c96ed3a7262d23f247 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=52739 |
+| 2026-11-22 | HathiTrust - public domain slavery narratives | https://babel.hathitrust.org/cgi/mb?a=listis;c=729189149 | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Smithsonian NMAAHC | https://nmaahc.si.edu/ | OpenCode/harvest | N/A | CAPTURE_FAILED | <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)> |
+| 2026-11-22 | Congress.gov - HR40 | https://www.congress.gov/bill/117th-congress/house-bill/40 | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | National_Archives_-_Emancipation_Proclamation.html | https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation | OpenCode/harvest | c481fb8f7f18f171f3a27cb5b394a08f94cbc7f8cbe1198dc194e17358f0dc84 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=43641 |
+| 2026-11-22 | FOIA.gov_-_DOJ_Civil_Rights.html | https://www.foia.gov/agency-search.html?id=9d4f7e74-7c93-4d5a-8d2a-9f7b8d0e2a2b | OpenCode/harvest | 304c129de165d83efb7cece7ece605946511d7b4c306b313153232d93e3598b2 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=24269 |

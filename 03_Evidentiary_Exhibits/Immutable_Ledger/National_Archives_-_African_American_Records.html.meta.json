@@ -1,0 +1,12 @@
+{
+  "url": "https://www.archives.gov/research/african-americans",
+  "final_url": "https://www.archives.gov/research/african-americans",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 52739,
+  "sha256": "90ee2ae3c99e904b1dc4ba9cff5d00865839a9481a3c28c96ed3a7262d23f247",
+  "captured_at": "2026-11-22T19:58:16.944598Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "pilot-1"
+}
