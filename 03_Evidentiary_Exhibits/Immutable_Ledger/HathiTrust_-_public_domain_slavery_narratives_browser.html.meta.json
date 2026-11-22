@@ -1,12 +1,13 @@
 {
   "url": "https://babel.hathitrust.org/cgi/mb?a=listis;c=729189149",
   "final_url": "https://babel.hathitrust.org/cgi/mb?a=listis;c=729189149",
-  "status": 200,
   "title": "HathiTrust - public domain slavery narratives",
   "bytes": 100128,
   "sha256": "887f43e9d0175d80644db1afe57b5f760f4b9bfe82f56d91484e73a0dbe2d6b5",
   "captured_at": "2026-11-22T20:24:30.476584Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }

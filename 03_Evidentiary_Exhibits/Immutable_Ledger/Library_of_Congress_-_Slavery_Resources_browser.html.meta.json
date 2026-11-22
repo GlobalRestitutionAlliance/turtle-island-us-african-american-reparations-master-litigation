@@ -1,12 +1,13 @@
 {
   "url": "https://guides.loc.gov/slavery",
   "final_url": "https://guides.loc.gov/slavery",
-  "status": 200,
   "title": "(404)",
   "bytes": 1519,
   "sha256": "2848909b48a65c59e53c7f0eda1c704d47609e36aa51df14af400feef8ae13b4",
   "captured_at": "2026-11-22T20:24:30.475583Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }

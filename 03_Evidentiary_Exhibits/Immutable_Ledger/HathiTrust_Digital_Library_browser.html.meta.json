@@ -1,12 +1,13 @@
 {
   "url": "https://www.hathitrust.org/",
   "final_url": "https://www.hathitrust.org/",
-  "status": 200,
-  "title": "HathiTrust Digital Library \u2013 Millions of books online",
+  "title": "HathiTrust Digital Library – Millions of books online",
   "bytes": 11525,
   "sha256": "aa5fb6dd9c3815d60ac6a8fff6c770705e2503d42f7cd0f973b35a2d24a1d816",
   "captured_at": "2026-11-22T20:22:52.727516Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
