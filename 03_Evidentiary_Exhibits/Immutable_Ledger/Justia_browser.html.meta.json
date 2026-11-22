@@ -1,0 +1,12 @@
+{
+  "url": "https://www.justia.com/",
+  "final_url": "https://www.justia.com/",
+  "status": 200,
+  "title": "Justia",
+  "bytes": 100126,
+  "sha256": "0437a38bef17af9ba26338c647311396da2383d4f85790229048e10a1d73d6b1",
+  "captured_at": "2026-11-22T20:24:30.474583Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
