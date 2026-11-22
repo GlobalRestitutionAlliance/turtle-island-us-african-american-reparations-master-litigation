@@ -9,3 +9,20 @@
 | 2026-11-21 | US_04_DOJ_Civil_Rights_Division.html | https://www.justice.gov/crt | OpenCode/harvest | f40ca2dddc85001cdd63524f1a610b457e76bf66801fd591d4666fa9ffb151ff | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=114207 |
 | 2026-11-21 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
 | 2026-11-21 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Internet_Archive.html | https://archive.org/ | OpenCode/harvest | 329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2046 |
+| 2026-11-22 | FOIA.gov.html | https://www.foia.gov/ | OpenCode/harvest | b30941ed50413bf961ec1189f7b2a423535960e1b5f96479e9f5cecb06c6117f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=28089 |
+| 2026-11-22 | NARA_FOIA.html | https://www.archives.gov/foia | OpenCode/harvest | 10a153c64fe2af1e0ff231a21507c4f5d0ee75706dff0532d5dd63839c47fe66 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=41023 |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | WorldCat.html | https://search.worldcat.org/ | OpenCode/harvest | d1d478d21383b051a0a9de5e6060c005afbe51070c56541036d69d97542b336a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=460996 |
+| 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
+| 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
+| 2026-11-22 | SlaveVoyages.html | https://www.slavevoyages.org/ | OpenCode/harvest | 50d0461e6c666cf00b0ab51108b0dac704138526f524bba7b671d4472106d7b3 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=1435 |
+| 2026-11-22 | UCL_Legacies_of_British_Slavery.html | https://www.ucl.ac.uk/lbs/ | OpenCode/harvest | a3d84308021d81cc23b0a2f9f606fa8963925521a0a65af4c37b8dfca39b780d | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=20286 |
+| 2026-11-22 | UNESCO Routes of Enslaved Peoples | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | Remote end closed connection without response |
+| 2026-11-22 | UK_National_Archives_-_Slavery.html | https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/ | OpenCode/harvest | 8b68ac9c5d1d45a33c711ba336c6c5a674de6a7b231f1ed35915eca71aaa7f6e | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=66425 |
+| 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
