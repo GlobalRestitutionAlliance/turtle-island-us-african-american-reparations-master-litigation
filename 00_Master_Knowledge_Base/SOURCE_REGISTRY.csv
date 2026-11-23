@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,Library of Congress - slavery and reparations,https://www.loc.gov/item/?q=african+american+reparations+slavery,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0002,National Archives - slavery records,https://www.archives.gov/research/african-americans/slavery-records-civil,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0003,Congress.gov - H.R.40,https://www.congress.gov/bill/117th-congress/house-bill/40,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0004,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0005,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0006,UN OHCHR racial discrimination,https://www.ohchr.org/en/topic/racism-racial-discrimination,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0007,US Census Bureau historical,https://www.census.gov/history/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0008,Civil Rights Division DOJ,https://www.justice.gov/crt,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0009,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0010,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
