@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `d21fe6f9e6f89d53...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `0db58733e48cdec1...` | PENDING_LEGAL_REVIEW
@@ -28,9 +28,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0024: https://www.govinfo.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_Govt_Publishing_Office.html` | `2afbc7eda2fb8bd7...` | PENDING_LEGAL_REVIEW
 - CIT-0025: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0026: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `d1d478d21383b051...` | PENDING_LEGAL_REVIEW
-- CIT-0027: https://www.archives.gov/research/african-americans/slavery-records-civil | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Archives_-_slavery_records.html` | `e65a5840f1f16a4a...` | PENDING_LEGAL_REVIEW
-- CIT-0028: https://www.census.gov/history/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_Census_Bureau_historical.html` | `ef0f36fbc3a46cbd...` | PENDING_LEGAL_REVIEW
-- CIT-0029: https://www.congress.gov/bill/117th-congress/house-bill/40 | `03_Evidentiary_Exhibits/Immutable_Ledger/Congress.gov_-_H.R.40_browser.html` | `d72452a299ec708f...` | PENDING_LEGAL_REVIEW
-- CIT-0030: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
-- CIT-0031: https://www.loc.gov/item/?q=african+american+reparations+slavery | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_slavery_and_reparations_browser.html` | `061fdfd04ff80315...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
-- CIT-0032: https://www.ohchr.org/en/topic/racism-racial-discrimination | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_racial_discrimination_browser.html` | `88bf45ea8bb53e57...` | PENDING_LEGAL_REVIEW
